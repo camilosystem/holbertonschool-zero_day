@@ -1,1 +1,0 @@
-This Project is about the use of VAGRANT and some conetions to GIT
